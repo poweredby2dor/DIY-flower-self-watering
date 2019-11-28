@@ -2,7 +2,7 @@
 
 This project is made as a home automation task.
 
-<img src="Photos/IMG_4151.JPG" width=450>
+<img src="Photos/IMG_4154.JPG" width=450>
 
 The goal of this project is to keep plants consistently watered even during times when no one is home.
 
